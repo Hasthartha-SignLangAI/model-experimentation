@@ -19,10 +19,10 @@ venv/
 # =========================
 # TensorFlow / Keras
 # =========================
-*.h5
-*.keras
-saved_model/
-cnn_lstm_savedmodel/
+# *.h5
+# *.keras
+# saved_model/
+# cnn_lstm_savedmodel/
 
 # Optional: keep model if you want
  !cnn_lstm_savedmodel/
