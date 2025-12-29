@@ -1,0 +1,63 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+venv/
+.env/
+.envrc/
+
+# =========================
+# TensorFlow / Keras
+# =========================
+*.h5
+*.keras
+saved_model/
+cnn_lstm_savedmodel/
+
+# Optional: keep model if you want
+ !cnn_lstm_savedmodel/
+
+# =========================
+# Data & logs
+# =========================
+Dataset_*/
+data/
+*.csv
+*.txt
+*.log
+
+# =========================
+# OS / Editor junk
+# =========================
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# =========================
+# Serial / temp
+# =========================
+*.tmp
+*.bak
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Secrets (just in case)
+# =========================
+*.key
+*.pem
