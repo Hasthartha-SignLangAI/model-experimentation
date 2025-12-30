@@ -1,12 +1,13 @@
 {
-  "ada": 0,
-  "awidinawa": 1,
-  "boru": 2,
-  "hawasa": 3,
-  "hodai": 4,
-  "irida": 5,
-  "narakai": 6,
-  "pata": 7,
-  "saduda": 8,
-  "udasana": 9
+  "idle": 0,
+  "ada": 1,
+  "awidinawa": 2,
+  "boru": 3,
+  "hawasa": 4,
+  "hodai": 5,
+  "irida": 6,
+  "narakai": 7,
+  "pata": 8,
+  "saduda": 9,
+  "udasana": 10
 }
