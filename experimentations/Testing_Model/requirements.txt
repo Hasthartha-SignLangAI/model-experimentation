@@ -1,0 +1,4 @@
+numpy>=1.23
+tensorflow>=2.13
+pyserial>=3.5
+scikit-learn>=1.2
